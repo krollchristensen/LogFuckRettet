@@ -1,0 +1,4 @@
+{"message": "Handling request", "user_id": "user123", "request_data": "{operation: 'purchase'}"}
+{"message": "Operation result", "user_id": "user123", "result": "Operation successful"}
+{"message": "Handling request", "user_id": "user456", "request_data": "{operation: 'check_balance'}"}
+{"message": "Operation result", "user_id": "user456", "result": "Operation successful"}
